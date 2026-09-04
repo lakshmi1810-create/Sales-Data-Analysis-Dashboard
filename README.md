@@ -8,9 +8,7 @@ This project follows a complete data analysis workflow including **data loading,
 
 ## Live Dashboard
 
-🔗 **Live Demo:** [Sales Analytics Dashboard](YOUR_STREAMLIT_APP_LINK)
-
-> Replace `YOUR_STREAMLIT_APP_LINK` with your deployed Streamlit application URL.
+🔗 **Live Demo:** [Sales Analytics Dashboard](https://sales-data-analysis-dashboard-bylakshmi.streamlit.app/)
 
 ---
 
